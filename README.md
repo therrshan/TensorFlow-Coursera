@@ -1,7 +1,7 @@
 # TensorFlow-Coursera
 The repository contains solved assignmnets for the Tensor Flow Specialiazation on Coursera by deeplearning.ai
 
-# 1. Introduction to Tensor Flow for AI, ML and Deep Learning
+### 1. Introduction to Tensor Flow for AI, ML and Deep Learning
 
 * Over the course of thhe first course of Specialization the development of deep CNN is acheived for classification of various data sets.
 * Extra techniques such as Image Generator, Pooling and Callbacks were used.
