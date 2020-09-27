@@ -19,6 +19,8 @@ The image shows intermediate convulations of the Fashion MNIST data set for an i
 
 
 <img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/1.png" alt = "" width = "400" height = "400"><img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/2.png" alt = "" width = "400" height = "400">
+
+
 <img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/3.png" alt = "" width = "400" height = "400"><img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/4.png" alt = "" width = "400" height = "400">
 
 The images show the validation to train accuracy graphs for the four different models that we train through out the course.
