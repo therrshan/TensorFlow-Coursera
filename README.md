@@ -1,5 +1,5 @@
-# TensorFlow-Coursera
-The repository contains solved assignmnets for the Tensor Flow Specialiazation on Coursera by deeplearning.ai
+![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
+
 
 ### 1. Introduction to Tensor Flow for AI, ML and Deep Learning
 
