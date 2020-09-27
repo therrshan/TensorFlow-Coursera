@@ -10,3 +10,14 @@ The repository contains solved assignmnets for the Tensor Flow Specialiazation o
 <img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/FashinMNISTviz.png" alt = "">
 
 The image shows intermediate convulations of the Fashion MNIST data set for an image of a shoe. The lace and the sole part are convulated for better classification.
+
+### 2. Convulational Neural Networks in TensoeFlow
+
+* This second course teaches you advanced techniques to improve the computer vision model you built in Course 1. 
+* You will explore how to work with real-world images in different shapes and sizes, visualize the journey of an image through convolutions to understand how a computer “sees” information, plot loss and accuracy, and explore strategies to prevent overfitting, including augmentation and dropouts. 
+*Finally, Course 2 will introduce you to transfer learning and how learned features can be extracted from models.
+
+
+<img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/1.png" alt = ""><img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/2.png" alt = ""><img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/3.png" alt = ""><img src="https://github.com/therrshan/TensorFlow-Coursera/blob/master/Images/4.png" alt = "">
+
+The images show the validation to train accuracy graphs for the four different models that we train through out the course.
